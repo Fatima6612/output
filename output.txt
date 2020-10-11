@@ -1,0 +1,11 @@
+#include<iostream>
+#include<conio.h>
+using namespace std;
+
+int main()
+{
+
+	cout << "Shakspear once said; \"To do a great right do a little wrong.\"\n";
+	system("Pause");
+	return 0;
+}
